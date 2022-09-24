@@ -1,0 +1,8 @@
+Product Number:
+2
+Product Name:
+Course for Pottery art  - Senior
+Product price:
+100.0
+
+---------------
